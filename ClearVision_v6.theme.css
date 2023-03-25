@@ -57,7 +57,7 @@
 	--background-blur: 0px; /* app background blur [default: 0px] */
 	
 	/* HOME BUTTON ICON */
-	--home-icon: url(https://i.pinimg.com/originals/9d/8d/1d/9d8d1df215e7e5aad25225a2eaf05f34.png); /* home button icon (link must be HTTPS) [default: url(https://clearvision.gitlab.io/icons/discord.svg)]*/
+	--home-icon: url(https://image.pngaaa.com/627/3968627-middle.png); /* home button icon (link must be HTTPS) [default: url(https://clearvision.gitlab.io/icons/discord.svg)]*/
 	--home-position: center; /* home button icon position [default: center] */
 	--home-size: 40px; /* home button icon size [default: 40px] */
 	
